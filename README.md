@@ -1,65 +1,34 @@
-# SHAZEEN MEMON
-**DATA ANALYST | EXCEL AND POWER BI PROFICIENT**
-- *Phone:* 07794478887
-- *Location:* Stockport
-- *Email:* SHAZEENMEMON@HOTMAIL.COM
-- *LinkedIn:* [www.linkedin.com/in/shazeen-memon](www.linkedin.com/in/shazeen-memon)
+# Hi, I'm Shazeen Memon 👋
 
-## OBJECTIVE
-Adaptable and dedicated professional with a strong background in data visualization as a Data Analyst Freelancer and a detail-oriented Teaching assistant, committed to continuous learning and growth, seeking the role of Data Analyst to leverage my teamwork skills and apply my expertise in Excel, Power BI to enhance data reporting accuracy and drive strategic decision-making.
+I'm not your average Data Analyst. I'm a passionate explorer of data, a problem-solving enthusiast, and a detail-oriented storyteller. I'm here to turn raw data into actionable insights that drive informed decisions and spark innovation.
 
-## SKILLS
-- Proficient in Excel, including advanced LOOK-UP functions, Conditional formatting, and Pivot tables.
-- Dynamic dashboards representations on Excel using Power pivot.
-- Data visualization in Microsoft Power BI, including Power queries and DAX.
-- Strong data entry and database management skills.
+## 👨‍💼 About Me
 
-**Soft Skills:**
-- Strong analytical and problem-solving abilities.
-- Excellent attention to detail and data accuracy.
-- Effective communication and collaboration skills.
-- Ability to adapt to changing priorities and work independently.
-- Adaptability and willingness to learn.
+I am a dedicated Data Analyst with a profound commitment to the world of data. My expertise lies in deciphering complex datasets, crafting data-driven narratives, and enabling organizations to make informed decisions. 
 
-## PROJECTS
-### Project 1:
-[**Sales Analysis and Inventory Dashboard – Personal Project**]( https://shazeen-memon.github.io/SM--Data-Analysis-Portfolio/)
-- Using Microsoft Excel for data analysis, transformed unorganised, raw data into much clearer and impactful Management Information (MI).
-- Implemented Excel's drop-down lists for creating a user-friendly Inventory journal.
-- Created data visualization reports using Excel, incorporating pivot tables, look-up references, Conditional formatting to highlight key insights.
-- Ensured data accuracy and integrity throughout the visualization process.
+- 📈 **Data Proficiency:** Proficient in data manipulation and analysis tools such as Excel and Power BI, I am adept at transforming raw data into actionable insights.
+- 💡 **Innovation:** My passion for innovation drives me to explore creative solutions to intricate problems across various domains.
+- 🧩 **Analytical Skills:** I excel at identifying patterns, trends, and valuable insights within datasets, offering a unique perspective on decision-making.
+- 🌟 **Detail-Oriented:** My meticulous attention to detail ensures data accuracy and the integrity of the insights I provide.
 
+## 💼 Work Experience
 
-![](./Images/Inventory%20Journal.png)
+- 🏢 **Data Administrator @ Haramain Enterprises:** I've honed my data entry and quality control skills, ensuring that every byte of data is in its right place.
+- 👩‍🏫 **Teaching Assistant @ Thorn Grove Primary School:** Education meets data analysis. I've helped educators make data-driven decisions for better student outcomes.
 
+## 🚀 Projects
 
-![](./Images/Excel%20dashboard%20furniture.png)
+- 📊 **Sales Analysis and Inventory Dashboard:** By creating user-friendly reports using Excel, I unveiled insights that boosted sales.
+- 📈 **Market Basket Analysis (Retail Supermarket):** With Excel, Power Query, and Power Pivot, I turned chaos into clarity
+- 🌐 **Sales Performance Analysis Dashboard:** In Power BI, I crafted dynamic visuals that brought sales trends to life.
 
-  
+## 📚 Education & Training
 
-### Project 2:
-[**Market Basket Analysis (Retail Supermarket) – Personal Project**]( https://shazeen-memon.github.io/SM--Data-Analysis-Portfolio/)
-- Conducted a market basket analysis using Excel, Power Query and Power Pivot on a retail dataset.
-- Integrated Excel for advanced calculations and data preprocessing.
-- Leveraged Power Query to extract and transform data from various sources.
-- Employed Power Pivot for data modelling and creating relationships between tables.
-- Used Power BI for data visualization and interactive dashboard creation.
-- Utilized DAX (Data Analysis Expressions) to calculate key performance indicators (KPIs) such as Yearly or Monthly targets and Year to date comparisons.
+- 🎓 **Data Analysis with Power BI:** Currently expanding my Power BI skills as well as working towards getting my IFA UK certification.
+- 📊 **Advanced MS Excel – Business Intelligence and Data Visualization:** I'm always upgrading my toolkit.
 
-  ![](https://github.com/Shazeen-Memon/SM--Data-Analysis-Portfolio/blob/main/Images/Media1.mp4)
+## 🌟 Let's Connect
 
-### Project 3:
-[**Sales Performance Analysis Dashboard – Personal Project**]( https://shazeen-memon.github.io/SM--Data-Analysis-Portfolio/)
-- Developed a dynamic Power BI dashboard for a project simulating supermarket retail, utilizing drill through, drill down, tooltips, and interactive visualizations.
-- Created visualizations, including various chart forms and map, to visualize sales trends, identify seasonality patterns, and compare performance across different product categories and stores.
-- Analysed and presented key performance indicators (KPIs) related to sales, employee performance, and customer relationships.
-- Demonstrated proficiency in data-driven decision-making, actionable insights, and the ability to optimize operations and enhance customer experiences.
+Let's embark on a data-driven journey together! Connect with me on [LinkedIn](www.linkedin.com/in/shazeen-memon) to explore how we can transform data into gold.
 
-
-
-![](./Sales%20Dashboard%201%20Power%20BI.png)
-
-![](./Sales%20Dashboard%202%20Power%20BI.png)
-
-![](./Sales%20Dashboard%203%20Power%20BI.png)
 
