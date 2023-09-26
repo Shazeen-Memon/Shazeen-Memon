@@ -29,6 +29,6 @@ I am a dedicated Data Analyst with a profound commitment to the world of data. M
 
 ## 🌟 Let's Connect
 
-Let's embark on a data-driven journey together! Connect with me on [LinkedIn](www.linkedin.com/in/shazeen-memon) to explore how we can transform data into gold.
+Let's embark on a data-driven journey together! Connect with me on [LinkedIn](http://www.linkedin.com/in/shazeen-memon) to explore how we can transform data into gold.
 
 
