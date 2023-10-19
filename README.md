@@ -20,7 +20,7 @@ I am a dedicated Data Analyst with a profound commitment to the world of data. M
 
 - 📊 **Sales Analysis and Inventory Dashboard:** By creating user-friendly reports using Excel, I unveiled insights that boosted sales.
 - 📈 **Market Basket Analysis (Retail Supermarket):** With Excel, Power Query, and Power Pivot, I turned chaos into clarity
-- 🌐 **Sales Performance Analysis Dashboard:** In Power BI, I crafted dynamic visuals that brought sales trends to life.
+- 🌐 **Sales Performance Analysis Dashboard:** With data retrieval and manipulation from SQL, Then In Power BI, I crafted dynamic visuals that brought sales trends to life.
 
 ## 📚 Education & Training
 
