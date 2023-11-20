@@ -13,8 +13,11 @@ I am a dedicated Data Analyst with a profound commitment to the world of data. M
 
 ## 💼 Work Experience
 
-- 🏢 **Data Administrator @ Haramain Enterprises:** I've honed my data entry and quality control skills, ensuring that every byte of data is in its right place.
-- 👩‍🏫 **Teaching Assistant @ Thorn Grove Primary School:** Education meets data analysis. I've helped educators make data-driven decisions for better student outcomes.
+- 🌐 **Data Analyst @ KPMG (Virtual Internship Program - November 2023 - Present):** My ongoing journey at KPMG involves conducting comprehensive analyses of customer data, optimizing marketing strategies, and developing predictive models for enhanced business value.
+- 🏢 **Data Administrator @ Haramain Enterprises (September 2023 - Present):** I've honed my data transformation and quality control skills, ensuring that every byte of data is in its right place.
+- 🌐 **Data and Business Analyst Intern @ YouExcel Training (August 2023 - October 2023):** I had the incredible opportunity to contribute to upgrading the company’s data platform. From defining project objectives to delivering training sessions, I was immersed in the world of data-driven decision-making.
+- 🌐 **Data Analyst/Administrator – Freelancer (December 2022 – July 2023):** Embarking on a freelance adventure, I provided comprehensive data analysis and administration services to a diverse range of global clients. Collaborating closely with clients, I uncovered patterns, managed multiple projects, and demonstrated adaptability in handling various data-related tasks.
+- 👩‍🏫 **Teaching Assistant @ Thorn Grove Primary School (January 2022 - August 2023):** Education meets data analysis. I've helped educators make data-driven decisions for better student outcomes.
 
 ## 🚀 Projects
 
