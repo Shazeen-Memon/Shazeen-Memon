@@ -1,10 +1,10 @@
 # Hi, I'm Shazeen Memon 👋
 
-I'm not your average Data Analyst. I'm a passionate explorer of data, a problem-solving enthusiast, and a detail-oriented storyteller. I'm here to turn raw data into actionable insights that drive informed decisions and spark innovation.
+I'm a passionate explorer of data, a problem-solving enthusiast, and a detail-oriented storyteller. I'm here to turn raw data into actionable insights that drive informed decisions and spark innovation.
 
 ## 👨‍💼 About Me
 
-I am a dedicated Data Analyst with a profound commitment to the world of data. My expertise lies in deciphering complex datasets, crafting data-driven narratives, and enabling organizations to make informed decisions. 
+I am a dedicated Data & Digital Transformation Professional with a profound commitment to the world of data. My expertise lies in deciphering complex datasets, crafting data-driven narratives, and enabling organizations to make informed decisions. 
 
 - 📈 **Data Proficiency:** Proficient in data manipulation and analysis tools such as Excel and Power BI, I am adept at transforming raw data into actionable insights.
 - 💡 **Innovation:** My passion for innovation drives me to explore creative solutions to intricate problems across various domains.
